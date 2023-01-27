@@ -1,1 +1,3 @@
 # AuroraUpdater
+
+``` mvn clean package ```
