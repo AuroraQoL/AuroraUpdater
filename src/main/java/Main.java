@@ -28,6 +28,6 @@ public class Main {
                 break;
         }
         // Status notify
-        JOptionPane.showMessageDialog(null, "Updated Aurora!");
+     //   JOptionPane.showMessageDialog(null, "Updated Aurora!");
     }
 }
